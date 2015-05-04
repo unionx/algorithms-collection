@@ -6,18 +6,7 @@
 - 编程珠玑
 - 具体数学
 
-### 项目
+### OJ
 
-- 使用C语言
-- 使用GNU工具链管理
-
-### 笔记
-
-- 要点：指针本身的大小不固定
-- 要点：自动变量和动态内存分配的区别
-- 技巧：数据结构通过指针操作变量，并不保存数据的私有副本
-- 概念：递归树
-- 要点：一般分析算法的最坏情况
-- 概念：算法分析方法，O W theta omega
-- 概念：NP完全问题
-- TODO：分析几个常用算法的复杂度
+- [POJ](http://poj.org/problemlist)
+- [Rosalind](http://rosalind.info/problems/list-view/)
