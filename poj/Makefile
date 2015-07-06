@@ -11,4 +11,4 @@ main.o : main.c
 .PHONY : clean
 
 clean :
-		-rm main.out $(objects)
+		rm -f *.o *.out
