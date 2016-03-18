@@ -8,5 +8,6 @@
 
 ### OJ
 
-- [POJ](http://poj.org/problemlist)
+- [LeetCode](https://leetcode.com/)
 - [Rosalind](http://rosalind.info/problems/list-view/)
+- [Kaggle](https://www.kaggle.com/)
