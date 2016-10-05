@@ -15,7 +15,7 @@
                      (last codon-line-split))
           (read-codon-file in)))))
 
-(call-with-input-file "./rna_codon_table.txt"
+(call-with-input-file "./datasets/rna_codon_table.txt"
   read-codon-file)
 
 (define (decode-rna)
