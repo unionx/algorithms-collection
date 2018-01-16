@@ -4,8 +4,9 @@ Bioinfomatics is cool.
 
 ## Thoughts
 
-I think I can compare R with Julia with Python solving the same problem.
+Write in Python and R.
 
 ## Links
 
 - [Biopython](http://biopython.org/wiki/Main_Page): Tools for biological computation written in Python
+- [Bioconductor](http://bioconductor.org/): Bioinformatics tools in R

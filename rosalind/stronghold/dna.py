@@ -18,7 +18,7 @@ def count_atcg(s):
 
 if __name__ == "__main__":
     res = count_atcg(s)
-    print(str(res["A"]) + " " + \
-          str(res["C"]) + " " + \
-          str(res["G"]) + " " + \
+    print(str(res["A"]) + " " +
+          str(res["C"]) + " " +
+          str(res["G"]) + " " +
           str(res["T"]) + " ")
